@@ -1,0 +1,21 @@
+{
+  "name": "tailwind-post-scss-template",
+  "version": "0.1.0",
+  "description": "A basic tailwindcss + PostCSS + node-sass template.",
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "postcss-cli": "^7.1.1",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./bin/build",
+    "watch": "./bin/watch"
+  },
+  "keywords": [],
+  "author": "Titus Kirch",
+  "license": "MIT"
+}
