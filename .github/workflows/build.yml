@@ -24,5 +24,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - name: Make build script executable
+      run: chmod +x ./bin/build
     - run: npm install
     - run: npm run build --if-present
