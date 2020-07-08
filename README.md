@@ -25,12 +25,12 @@ A basic tailwindcss + PostCSS + node-sass template.
 This project is a very simple template to start with a tailwindcss project (including SCSS compiler).
 
 ## Getting started
-First you have to install npm. You can find instructions [here](https://www.npmjs.com/get-npm).
+First you have to install npm. [Installation instructions](https://www.npmjs.com/get-npm)
+Than you have to install composer. [Installation instructions](https://getcomposer.org/download/)
 
-Then download the project and go to the project directory.
+Require the project.
 ```BASH
-git clone https://github.com/TitusKirch/tailwind-post-scss-template.git
-cd tailwind-post-scss-template/
+composer require tituskirch/tailwind-post-scss-template
 ```
 
 Now install all required resources.
