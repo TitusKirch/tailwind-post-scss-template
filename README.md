@@ -26,6 +26,7 @@ This project is a very simple template to start with a tailwindcss project (incl
 
 ## Getting started
 First you have to install npm. [Installation instructions](https://www.npmjs.com/get-npm)
+
 Than you have to install composer. [Installation instructions](https://getcomposer.org/download/)
 
 Require the project.
