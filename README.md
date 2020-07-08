@@ -4,7 +4,7 @@ A basic tailwindcss + PostCSS + node-sass template.
 <p align="center">
     <a href="https://github.com/TitusKirch/tailwind-post-scss-template/actions"><img src="https://github.com/TitusKirch/tailwind-post-scss-template/workflows/Build/badge.svg" alt="Build action status"></a>
     <a href="https://github.com/TitusKirch/tailwind-post-scss-template/blob/master/LICENSE"><img src="https://img.shields.io/github/license/TitusKirch/tailwind-post-scss-template?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
-    <a href="https://github.com/TitusKirch/tailwind-post-scss-template/releases"><img src="https://img.shields.io/github/downloads/TitusKirch/tailwind-post-scss-template/total?label=Downloads&labelColor=30363D&color=2FBF50" alt="Downloads"></a>
+    <a href="https://packagist.org/packages/tituskirch/tailwind-post-scss-template"><img src="https://img.shields.io/packagist/dm/tituskirch/tailwind-post-scss-template?label=Downloads&labelColor=30363D&color=2FBF50" alt="Packagist Downloads"></a>
     <a href="https://github.com/TitusKirch/tailwind-post-scss-template/graphs/contributors"><img src="https://img.shields.io/github/contributors/TitusKirch/tailwind-post-scss-template?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
     <a href="https://discord.tkirch.dev"><img src="https://img.shields.io/discord/576562577769889805?label=Discord&labelColor=30363D&color=2FBF50&logoColor=959DA5&logo=Discord" alt="Discord"></a>
 </p>
@@ -25,16 +25,17 @@ A basic tailwindcss + PostCSS + node-sass template.
 This project is a very simple template to start with a tailwindcss project (including SCSS compiler).
 
 ## Getting started
-First you have to install npm. You can find instructions [here](https://www.npmjs.com/get-npm).
+First you have to install npm. [Installation instructions](https://www.npmjs.com/get-npm)
+Than you have to install composer. [Installation instructions](https://getcomposer.org/download/)
 
-Then download the project and go to the project directory.
+Require the project.
 ```BASH
-git clone https://github.com/TitusKirch/tailwind-post-scss-template.git
-cd tailwind-post-scss-template/
+composer require tituskirch/tailwind-post-scss-template
 ```
 
 Now install all required resources.
 ```BASH
+composer install
 npm install
 ```
 
