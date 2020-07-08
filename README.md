@@ -29,12 +29,12 @@ First you have to install npm. [Installation instructions](https://www.npmjs.com
 
 Than you have to install composer. [Installation instructions](https://getcomposer.org/download/)
 
-Require the project.
+Require the project:
 ```BASH
 composer require tituskirch/tailwind-post-scss-template
 ```
 
-Now install all required resources.
+Now install all required resources:
 ```BASH
 composer install
 npm install
@@ -43,14 +43,14 @@ npm install
 Ready! Now you can start with your project.
 
 ## Howto
-To convert your SCSS code under /scss/app.scss to CSS code use the following command.
+To convert your SCSS code under /scss/app.scss to CSS code use the following command:
 ```BASH
 npm run build
 ```
 
 Afterwards your CSS code is created under /public/css/app.css.
 
-Alternatively you can also use the following command.
+Alternatively you can also use the following command:
 ```BASH
 npm run watch
 ```
