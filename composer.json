@@ -1,0 +1,16 @@
+{
+    "name": "tituskirch/tailwind-post-scss-template",
+    "description": "A basic tailwindcss + PostCSS + node-sass template.",
+    "readme": "README.md",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Titus Kirch",
+            "email": "request@tkirch.dev"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/TitusKirch/tailwind-post-scss-template/issues"
+    },
+    "minimum-stability": "stable"
+}
