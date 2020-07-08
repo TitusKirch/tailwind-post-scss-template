@@ -2,7 +2,7 @@
     "name": "tituskirch/tailwind-post-scss-template",
     "description": "A basic tailwindcss + PostCSS + node-sass template.",
     "readme": "README.md",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Titus Kirch",
