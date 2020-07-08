@@ -35,6 +35,7 @@ composer require tituskirch/tailwind-post-scss-template
 
 Now install all required resources.
 ```BASH
+composer install
 npm install
 ```
 
