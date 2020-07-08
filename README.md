@@ -4,7 +4,7 @@ A basic tailwindcss + PostCSS + node-sass template.
 <p align="center">
     <a href="https://github.com/TitusKirch/tailwind-post-scss-template/actions"><img src="https://github.com/TitusKirch/tailwind-post-scss-template/workflows/Build/badge.svg" alt="Build action status"></a>
     <a href="https://github.com/TitusKirch/tailwind-post-scss-template/blob/master/LICENSE"><img src="https://img.shields.io/github/license/TitusKirch/tailwind-post-scss-template?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
-    <a href="https://packagist.org/packages/tituskirch/tailwind-post-scss-template"><img src="https://img.shields.io/packagist/dm/tituskirch/tailwind-post-scss-template/total?label=Downloads&labelColor=30363D&color=2FBF50" alt="Packagist Downloads"></a>
+    <a href="https://packagist.org/packages/tituskirch/tailwind-post-scss-template"><img src="https://img.shields.io/packagist/dm/tituskirch/tailwind-post-scss-template?label=Downloads&labelColor=30363D&color=2FBF50" alt="Packagist Downloads"></a>
     <a href="https://github.com/TitusKirch/tailwind-post-scss-template/graphs/contributors"><img src="https://img.shields.io/github/contributors/TitusKirch/tailwind-post-scss-template?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
     <a href="https://discord.tkirch.dev"><img src="https://img.shields.io/discord/576562577769889805?label=Discord&labelColor=30363D&color=2FBF50&logoColor=959DA5&logo=Discord" alt="Discord"></a>
 </p>
