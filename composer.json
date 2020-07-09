@@ -1,6 +1,7 @@
 {
     "name": "tituskirch/tailwind-post-scss-template",
     "description": "A basic tailwindcss + PostCSS + node-sass template.",
+    "version": "1.0.0",
     "readme": "README.md",
     "license": "MIT",
     "authors": [
